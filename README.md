@@ -22,8 +22,6 @@ El diseño de la interfaz fue una parte fundamental del proyecto, buscando repli
 
 ## 📸 Demo Visual
 
-Aquí te dejo algunas vistas de la aplicación. Para una experiencia completa, ¡visita la demo en vivo!
-
 
 ![Demo en acción](./images/pokeapp-demo.gif)
 
