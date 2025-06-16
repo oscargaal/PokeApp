@@ -92,25 +92,28 @@ Este proyecto fue una experiencia de aprendizaje invaluable. Algunos de los cono
 
 ## 📁 Estructura del proyecto
 
-pokeapp/
+```text
+pokepapp/
 ├── public/
-│   └── sonidos y assets visuales (SVG, MP3)
+│   └── sonidos y assets visuales (SVG, MP3)
 ├── src/
-│   ├── assets/
-│   ├── components/       # Navbar, Card, etc.
-│   ├── views/            # PokémonList, TrainerList, Fichas
-│   ├── App.vue
-│   ├── main.js
-│   ├── router.js
-│   ├── style.css
-│   └── trainersDB.js     # Datos locales de entrenadores
-├── .env                  # Archivo de variables de entorno (ignorado por Git)
-├── .gitignore            # Archivos y carpetas a ignorar por Git
+│   ├── assets/
+│   │   └── # Navbar, Card, etc.
+│   ├── components/
+│   ├── views/         # PokémonList, TrainerList, Fichas
+│   ├── App.vue
+│   ├── main.js
+│   ├── router.js
+│   ├── style.css
+│   └── trainersDB.js  # Datos locales de entrenadores
+├── .env               # Archivo de variables de entorno
+├── .gitignore         # Archivos y carpetas a ignorar por Git
 ├── index.html
 ├── package-lock.json
 ├── package.json
-├── README.md             # Este archivo
+├── README.md          # Este archivo
 └── vite.config.js
+```
 
 ## 👥 Mi Rol y Contribuciones (Ex-proyecto Colaborativo)
 
