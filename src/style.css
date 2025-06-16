@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+
+body,
+html,
+#app {
+    font-family: 'Press Start 2P', cursive;
+}
+
+@layer components {
+    .bg-gradient-bisagra {
+        background: linear-gradient(180deg,
+                rgba(101, 9, 8, 1) 0%,
+                rgba(140, 10, 0, 1) 20%,
+                rgb(177, 63, 55) 40%,
+                rgb(177, 63, 55) 40%,
+                rgb(165, 16, 5) 80%,
+                rgba(101, 9, 8, 1) 100%)
+    }
+
+    .bg-gradient-botAzul {
+        background: #7dfbff;
+        background: radial-gradient(circle,
+                rgba(125, 251, 255, 1) 0%,
+                rgba(76, 211, 240, 1) 50%,
+                rgba(0, 71, 89, 1) 100%);
+    }
+
+    .bg-gradient-lucesVerdes {
+        background: #80ff99;
+        background: radial-gradient(circle,
+                rgba(128, 255, 153, 1) 0%,
+                rgba(81, 176, 100, 1) 100%);
+    }
+}
