@@ -10,7 +10,7 @@ Inspirada en el diseño clásico de la Pokédex original, esta aplicación combi
 
 ## 🚀 Live Demo
 
-**¡Explora la aplicación en vivo aquí!** 👉 [https://tu-live-demo.com]()
+**¡Explora la aplicación en vivo aquí!** 👉 [https://pokeapp-oscargaal.netlify.app/](https://pokeapp-oscargaal.netlify.app/)
 
 ---
 
