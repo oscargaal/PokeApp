@@ -175,7 +175,7 @@
 import PokemonCard from './components/Card.vue'
 import pokeBallIcon from './assets/pokeballicon.png'
 import Navbar1 from './components/Navbar1.vue';
-import Navbar2 from './components/NavBar2.vue';
+import Navbar2 from './components/Navbar2.vue';
 import eventBus from './eventBus';
 
 export default {
