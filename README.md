@@ -156,7 +156,9 @@ Para clonar y ejecutar este proyecto en tu máquina local:
 
 ## 📄 Licencia
 
-Este proyecto es de uso educativo y no tiene fines comerciales. Pokémon es una marca registrada de Nintendo y Game Freak.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+**Aviso Legal:** Este proyecto es de uso educativo y no tiene fines comerciales. Pokémon es una marca registrada de Nintendo y Game Freak.
 
 ---
 
