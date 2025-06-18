@@ -166,8 +166,8 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ¡Me encantaría conectar y discutir sobre este y otros proyectos!
 
--   **Mi Perfil de GitHub:** [https://github.com/oscargaal](https://github.com/oscargaal)
--   **LinkedIn:** [Oscar García](https://www.linkedin.com/in/oscar-garc%C3%ADa-b4a755308/)
+* **Mi Perfil de GitHub:** [https://github.com/oscargaal](https://github.com/oscargaal)
+* **LinkedIn:** [Oscar García](https://www.linkedin.com/in/oscargaal/)
 
 Puedes encontrar más detalles sobre los entrenadores y sus perfiles de GitHub directamente en la aplicación.
 
